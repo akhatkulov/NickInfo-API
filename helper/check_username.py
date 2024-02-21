@@ -1,7 +1,6 @@
 import threading
 import requests
 import requests as r
-import typer
 import time
 def nick_fast_checker(a : str):
     res =""
